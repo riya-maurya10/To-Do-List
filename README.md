@@ -1,44 +1,29 @@
-\# Java To-Do List Application
+# Java To-Do List Application 📝
 
+A clean and user-friendly **To-Do List desktop application** built using **Java Swing**.  
+The application allows users to add, complete, and delete tasks with a simple graphical interface.
 
+---
 
-A simple To-Do List application built using Java and Swing.
+## 🚀 Features
 
+- ➕ Add new tasks dynamically
+- ✔️ Mark tasks as completed using a checkbox
+- ✂️ Delete tasks instantly
+- 🧾 Scrollable task list for multiple tasks
+- 🎨 Custom font support (LEMONMILK)
+- 🖥️ Clean and minimal GUI design
 
+---
 
-\## Features
+## 🛠️ Technologies Used
 
-\- Add tasks
+- **Java**
+- **Java Swing (GUI)**
+- **AWT**
+- **IntelliJ IDEA**
 
-\- Delete tasks
-
-\- Clean GUI
-
-\- Custom font support
-
-
-
-\## Technologies Used
-
-\- Java
-
-\- Swing
-
-
-
-\## How to Run
-
-1\. Clone the repository
-
-2\. Open in IntelliJ IDEA
-
-3\. Run `App.java`
-
-
-
-\## Author
-
-Riya Maurya
+---
 
 
 
